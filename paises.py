@@ -1,4 +1,3 @@
-from curses import noecho
 import json
 import sys
 
